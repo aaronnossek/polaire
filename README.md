@@ -11,4 +11,4 @@ Namen Beispiele:
 preview_01_projectname_01.mp4 (kleinere)
 preview_01_projectname_02.mp4 (größere Datei)
 
-github "Add files"
+github "Add files" --> "Upload Files"
