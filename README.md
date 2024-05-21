@@ -10,10 +10,15 @@
   - Sound: disable sound export with the video clip
   - Length: 3-5 seconds
   - bitrate and file size: ~2000 kbps - file size of max. 1 MB
+  -   01 kleinere Datei: 2000kbps +-500kbps
+  -   02 größer: 3000kbps +-500kbps
+
 
 ### 2. Rename the video clip
 - Rename to this template: preview_projectname_01.mp4
   - Example: preview_fisker_01.mp4
+  - preview_projectname_01.mp4 (kleinere)
+  - preview_projectname_02.mp4 (größere Datei)
 
 ### 3. Upload to GitHub
 - github "Add Files" --> "Upload Files
